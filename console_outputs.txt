@@ -1,0 +1,94 @@
+(main.py)
+Size: 5, Time: 0.000000 seconds
+Size: 5, Time: 0.000000 seconds
+Size: 5, Time: 0.000000 seconds
+Size: 10, Time: 0.000000 seconds
+Size: 10, Time: 0.000000 seconds
+Size: 10, Time: 0.000000 seconds
+Size: 20, Time: 0.000000 seconds
+Size: 20, Time: 0.000000 seconds
+Size: 20, Time: 0.000000 seconds
+Size: 50, Time: 0.000000 seconds
+Size: 50, Time: 0.000000 seconds
+Size: 50, Time: 0.000996 seconds
+Size: 100, Time: 0.000000 seconds
+Size: 100, Time: 0.001001 seconds
+Size: 100, Time: 0.000988 seconds
+Size: 200, Time: 0.002002 seconds
+Size: 200, Time: 0.001994 seconds
+Size: 200, Time: 0.003990 seconds
+Size: 500, Time: 0.011972 seconds
+Size: 500, Time: 0.012815 seconds
+Size: 500, Time: 0.028549 seconds
+Size: 1000, Time: 0.047471 seconds
+Size: 1000, Time: 0.065502 seconds
+Size: 1000, Time: 0.132475 seconds
+Size: 2000, Time: 0.251621 seconds
+Size: 2000, Time: 0.237720 seconds
+Size: 2000, Time: 0.482579 seconds
+Size: 5000, Time: 1.448580 seconds
+Size: 5000, Time: 1.491863 seconds
+Size: 5000, Time: 2.986899 seconds
+Size: 10000, Time: 5.474749 seconds
+Size: 10000, Time: 5.544635 seconds
+Size: 10000, Time: 12.208924 seconds
+Size: 20000, Time: 22.119171 seconds
+Size: 20000, Time: 23.096285 seconds
+Size: 20000, Time: 49.103395 seconds
+
+(insertion_sort.py)
+Size: 5, Time: 0.000000 seconds
+Size: 10, Time: 0.000000 seconds
+Size: 20, Time: 0.000000 seconds
+Size: 50, Time: 0.000000 seconds
+Size: 100, Time: 0.001035 seconds
+Size: 200, Time: 0.002003 seconds
+Size: 500, Time: 0.010972 seconds
+Size: 1000, Time: 0.063265 seconds
+Size: 2000, Time: 0.218939 seconds
+Size: 5000, Time: 1.428690 seconds
+Size: 10000, Time: 5.644278 seconds
+Size: 20000, Time: 22.959831 seconds
+
+(selection_sort.py)
+Size: 5, Time: 0.000000 seconds
+Size: 10, Time: 0.000000 seconds
+Size: 20, Time: 0.000000 seconds
+Size: 50, Time: 0.000000 seconds
+Size: 100, Time: 0.001031 seconds
+Size: 200, Time: 0.003049 seconds
+Size: 500, Time: 0.012911 seconds
+Size: 1000, Time: 0.058700 seconds
+Size: 2000, Time: 0.241346 seconds
+Size: 5000, Time: 1.461684 seconds
+Size: 10000, Time: 5.638519 seconds
+Size: 20000, Time: 22.922434 seconds
+
+(bubble_sort.py)
+Size: 5, Time: 0.000000 seconds
+Size: 10, Time: 0.000000 seconds
+Size: 20, Time: 0.000000 seconds
+Size: 50, Time: 0.000000 seconds
+Size: 100, Time: 0.000999 seconds
+Size: 200, Time: 0.004592 seconds
+Size: 500, Time: 0.043596 seconds
+Size: 1000, Time: 0.110495 seconds
+Size: 2000, Time: 0.553660 seconds
+Size: 5000, Time: 3.216959 seconds
+Size: 10000, Time: 12.770056 seconds
+Size: 20000, Time: 50.123096 seconds
+
+(selection_sort_correctness.py)
+[918 932 604 234 793 952 246 828 475 779 945 808 891 324 686 687 707 353
+ 759 523 473  71  99 565  67 459 258 503 545 818 344 439 133 946 986 319
+ 844 234 822 589 839 620 279 763 521 493 174 827 428 996 688  61 448 911
+ 752 122 162 863 319 255 719 482 585 538 585 400 166 164 807 849 139 800
+ 708 110 962 596 875 306  18 652 865 629 312 571 533 439 742  24 113 345
+ 591 421 841 334 584 614  76 335  64 497]
+[ 18  24  61  64  67  71  76  99 110 113 122 133 139 162 164 166 174 234
+ 234 246 255 258 279 306 312 319 319 324 334 335 344 345 353 400 421 428
+ 439 439 448 459 473 475 482 493 497 503 521 523 533 538 545 565 571 584
+ 585 585 589 591 596 604 614 620 629 652 686 687 688 707 708 719 742 752
+ 759 763 779 793 800 807 808 818 822 827 828 839 841 844 849 863 865 875
+ 891 911 918 932 945 946 952 962 986 996]
+Selection Sort returns a sorted array correctly
