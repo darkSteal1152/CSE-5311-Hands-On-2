@@ -13,7 +13,7 @@ Implementations:
 
 3. As each algorithm is plotted and shown in Figure 2, FIgure 3, and Figure 4, all of the algorithms are grouped and compared in Figure 1 with the code for that plot being in the file main.py . My computer benchmark is as follows:
 
- IDE: PyCharm
+ IDE: PyCharm\n
  Programming Language: python
    
    System Information:
