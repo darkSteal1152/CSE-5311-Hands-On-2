@@ -13,14 +13,20 @@ Implementations:
 
 3. As each algorithm is plotted and shown in Figure 2, FIgure 3, and Figure 4, all of the algorithms are grouped and compared in Figure 1 with the code for that plot being in the file main.py . My computer benchmark is as follows:
 
- IDE: PyCharm\n
+ IDE: PyCharm
+ 
  Programming Language: python
    
    System Information:
+   
 Operating System: Windows 11
+
 Processor: Intel i-11700
+
 CPU Cores: 8
+
 Logical CPUs: 16
+
 RAM: 16 GB
 
 Also a txt file console_outputs.txt contains all of the console print statements generated from each of the python files above.
