@@ -21,7 +21,9 @@ Implementations:
    
 Operating System: Windows 11
 
-Processor: Intel i-11700
+Machine: x64
+
+Processor: Intel i7-11700
 
 CPU Cores: 8
 
